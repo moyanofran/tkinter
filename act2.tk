@@ -1,0 +1,11 @@
+Import tkinter as tk
+
+ventana.title(" mi ventana")
+ventana.geometry(400x300)
+ventana.mainloop()
+
+controlador.java
+conexion.java
+
+Main.java
+ventana.java
